@@ -1,6 +1,7 @@
 # Technological_Repo
 Ons "miro" bord voor de code van de robot
 
+https://miro.com/welcomeonboard/RHY3WlJQb0tYZnUxeUxNV1MyTnNGeHRpR3pvNVVzbEpqU1dxTkpnZWhrdzdMRkN1dHA2bEIwSzZmR0tCcDFZeEpRdi8xREJMVDFwd2ZabEVmSStta0d0VHNmSjBCMTdOVlg4R2FmTkYyNjJGWGNxK054ekJxcUYwM2VvL1pNTkV0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=970291566958
 ...
 
 Algemene links
