@@ -5,6 +5,8 @@ https://miro.com/welcomeonboard/RHY3WlJQb0tYZnUxeUxNV1MyTnNGeHRpR3pvNVVzbEpqU1dx
 ...
 
 Algemene links
+• Software
+https://mindplus.cc/download-en.html
 
 • De Powerpoint van Jelle staat er ook apart in
 
