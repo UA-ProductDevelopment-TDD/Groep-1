@@ -1,0 +1,55 @@
+--------------------------------Wandelen (standaard commando) 
+#  -*- coding: UTF-8 -*-
+
+# MindPlus
+# Python
+from PetoiRobot import *
+
+
+autoConnect()
+while True:
+    sendSkillStr('kwkF', 0.2)
+
+-------------------------------Kruipen
+#  -*- coding: UTF-8 -*-
+
+# MindPlus
+# Python
+from PetoiRobot import *
+
+
+autoConnect()
+while True:
+    sendSkillStr('kcrF', 0.2)
+
+--------------------------------Zigzag (te testen met hardware bord) 
+#  -*- coding: UTF-8 -*-
+
+# MindPlus
+# Python
+from PetoiRobot import *
+
+
+autoConnect()
+for index in range(10):
+    sendSkillStr('kvtR', 0.2)
+    sendSkillStr('kwkR', 3)
+    sendSkillStr('kvtL', 0.2)
+    sendSkillStr('kwkL', 3)
+
+--------------------------------- vechten 
+#  -*- coding: UTF-8 -*-
+
+# MindPlus
+# Python
+import time
+from PetoiRobot import *
+
+
+autoConnect()
+sendSkillStr('ksit', 0.2)
+for index in range(5):
+    sendSkillStr('kbx', 2)
+sendSkillStr('kup', 0.2)
+time.sleep(1)
+sendSkillStr('knd', 2)
